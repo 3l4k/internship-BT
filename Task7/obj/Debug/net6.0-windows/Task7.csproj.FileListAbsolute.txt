@@ -1,0 +1,54 @@
+C:\Users\llota\source\repos\Task7\Task7\bin\Debug\net6.0-windows\Task7.exe
+C:\Users\llota\source\repos\Task7\Task7\bin\Debug\net6.0-windows\Task7.deps.json
+C:\Users\llota\source\repos\Task7\Task7\bin\Debug\net6.0-windows\Task7.runtimeconfig.json
+C:\Users\llota\source\repos\Task7\Task7\bin\Debug\net6.0-windows\Task7.dll
+C:\Users\llota\source\repos\Task7\Task7\bin\Debug\net6.0-windows\Task7.pdb
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.csproj.AssemblyReference.cache
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.Form1.resources
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.Properties.Resources.resources
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.csproj.GenerateResource.cache
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.AssemblyInfoInputs.cache
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.AssemblyInfo.cs
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.csproj.CoreCompileInputs.cache
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.dll
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\refint\Task7.dll
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.pdb
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\Task7.genruntimeconfig.cache
+C:\Users\llota\source\repos\Task7\Task7\obj\Debug\net6.0-windows\ref\Task7.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\bin\Debug\net6.0-windows\Task7.exe
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\bin\Debug\net6.0-windows\Task7.deps.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\bin\Debug\net6.0-windows\Task7.runtimeconfig.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\bin\Debug\net6.0-windows\Task7.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\bin\Debug\net6.0-windows\Task7.pdb
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.csproj.AssemblyReference.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.Form1.resources
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.Properties.Resources.resources
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.csproj.GenerateResource.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.AssemblyInfoInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.AssemblyInfo.cs
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.csproj.CoreCompileInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\refint\Task7.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.pdb
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\Task7.genruntimeconfig.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task7\Task7\obj\Debug\net6.0-windows\ref\Task7.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\bin\Debug\net6.0-windows\Task7.exe
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\bin\Debug\net6.0-windows\Task7.deps.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\bin\Debug\net6.0-windows\Task7.runtimeconfig.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\bin\Debug\net6.0-windows\Task7.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\bin\Debug\net6.0-windows\Task7.pdb
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.csproj.AssemblyReference.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.Form1.resources
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.Properties.Resources.resources
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.csproj.GenerateResource.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.AssemblyInfoInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.AssemblyInfo.cs
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.csproj.CoreCompileInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\refint\Task7.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.pdb
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\Task7.genruntimeconfig.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Task8\Task7\obj\Debug\net6.0-windows\ref\Task7.dll
