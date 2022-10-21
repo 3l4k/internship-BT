@@ -1,0 +1,50 @@
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\task10.exe
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\task10.deps.json
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\task10.runtimeconfig.json
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\task10.dll
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\task10.pdb
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.csproj.AssemblyReference.cache
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.Form1.resources
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.csproj.GenerateResource.cache
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.AssemblyInfoInputs.cache
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.AssemblyInfo.cs
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.csproj.CoreCompileInputs.cache
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.dll
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\refint\task10.dll
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.pdb
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.genruntimeconfig.cache
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\ref\task10.dll
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\llota\source\repos\task10\task10\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\llota\source\repos\task10\task10\obj\Debug\net6.0-windows\task10.csproj.CopyComplete
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\task10.exe
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\task10.deps.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\task10.runtimeconfig.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\task10.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\task10.pdb
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.csproj.AssemblyReference.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.Form1.resources
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.csproj.GenerateResource.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.AssemblyInfoInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.AssemblyInfo.cs
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.csproj.CoreCompileInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.csproj.CopyComplete
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\refint\task10.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.pdb
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.genruntimeconfig.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\ref\task10.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.Properties.Resources.resources
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\task10\task10\obj\Debug\net6.0-windows\task10.Search.resources
