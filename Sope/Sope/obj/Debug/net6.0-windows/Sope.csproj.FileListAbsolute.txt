@@ -1,0 +1,17 @@
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\bin\Debug\net6.0-windows\Sope.exe
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\bin\Debug\net6.0-windows\Sope.deps.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\bin\Debug\net6.0-windows\Sope.runtimeconfig.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\bin\Debug\net6.0-windows\Sope.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\bin\Debug\net6.0-windows\Sope.pdb
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.csproj.AssemblyReference.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.Form1.resources
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.csproj.GenerateResource.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.AssemblyInfoInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.AssemblyInfo.cs
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.csproj.CoreCompileInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\refint\Sope.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.pdb
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\Sope.genruntimeconfig.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK4\Sope\Sope\obj\Debug\net6.0-windows\ref\Sope.dll
