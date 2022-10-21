@@ -1,0 +1,15 @@
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\leetcode.csproj.AssemblyReference.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\leetcode.AssemblyInfoInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\leetcode.AssemblyInfo.cs
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\leetcode.csproj.CoreCompileInputs.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\bin\Debug\net6.0\leetcode.exe
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\bin\Debug\net6.0\leetcode.deps.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\bin\Debug\net6.0\leetcode.runtimeconfig.json
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\bin\Debug\net6.0\leetcode.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\leetcode.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\refint\leetcode.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\leetcode.pdb
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\leetcode.genruntimeconfig.cache
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\obj\Debug\net6.0\ref\leetcode.dll
+C:\Users\llota\OneDrive\Documents\University\YR2\IT Bluetag\WK1\leetcode\bin\Debug\net6.0\leetcode.pdb
